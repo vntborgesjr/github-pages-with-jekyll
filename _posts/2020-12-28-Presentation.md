@@ -1,4 +1,9 @@
 
+---
+title: "Apresentação"
+date: 2020-12-28
+---
+
 # **Blog AnalisaR**{.tabset .tabset-fade .tabset-pills}
 
 O Blog **AnalisaR** é um espaço em construção permanente para divulgação do R como ferramenta indispensável para: 
