@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Equipe AnalisaR
+author: Vitor Borges-Júnior
+email: vntborgesjr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  AnalisaR é uma consultoria especializada em ciência de dados. 
+  Nossa missão é transformar dados em informação para orientar sua tomada de decisão. 
+  Atuamos em todas as áreas de negócio e pesquisa.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  vntborgesjr # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
